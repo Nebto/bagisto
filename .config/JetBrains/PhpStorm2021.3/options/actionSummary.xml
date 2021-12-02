@@ -1,0 +1,58 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CWMHostShowPopupAction">
+      <i c="1" l="1638478166986" />
+    </e>
+    <e n="CheckinProject">
+      <i c="1" l="1638479229209" />
+    </e>
+    <e n="ChooseRunConfiguration">
+      <i c="1" l="1638478221113" />
+    </e>
+    <e n="CreateDesktopEntry">
+      <i c="1" l="1638478017291" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="10" l="1638479433057" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1" l="1638478502710" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="9" l="1638479439249" />
+    </e>
+    <e n="Github.Accounts.AddGHAccount">
+      <i c="1" l="1638478321751" />
+    </e>
+    <e n="Github.Share">
+      <i c="1" l="1638478315654" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1638478251611" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="1" l="1638479399498" />
+    </e>
+    <e n="Vcs.ToggleAmendCommitMode">
+      <i c="1" l="1638478891579" />
+    </e>
+    <e n="Vcs.UpdateProject">
+      <i c="1" l="1638479206825" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1638477982236" />
+    </e>
+    <e n="com.intellij.diagnostic.LowMemoryNotifier$1">
+      <i c="1" l="1638479981585" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1638479219247" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="2" l="1638478908067" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1638478906363" />
+    </e>
+  </component>
+</application>
